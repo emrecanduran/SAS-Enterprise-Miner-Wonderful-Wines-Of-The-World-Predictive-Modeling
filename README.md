@@ -2,7 +2,7 @@
 
 # Wonderful Wines Of The World 
 
-This project focuses on predicting the "Humid" target column using neural networks and decision trees. It aims to provide insights into the humidity levels based on various customer variables.
+This project focuses on predicting the "Humid" target column using neural networks and decision trees. It aims to provide insights into the humidity levels based on various customer variables. The stakeholder wants to know which customers would be more profitable to contact.
 
 ## Dataset
 
