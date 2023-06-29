@@ -7,7 +7,8 @@ WWW sells wines through catalogs (electronic and physical), websites, mobile app
 
 Through aggressive promotion in wine and food magazines, WWW now has 350,000 customers in its database. Most customers are highly involved in wine, entertain frequently, and have sufficient money to indulge their passion for wine. WWW sometimes offers wine accessories as well – wine racks, cork extractors, etc.
 
-This project focuses on predicting the "Humid" target column using neural networks and decision trees. It aims to provide insights into the humidity levels based on various customer variables. The stakeholder wants to know which customers would be more profitable to contact.
+WWW is trying to make use of the database it started about five years ago. So far, it has simply mass-marketed everything. Now, WWW wants to "get smart" about its database, and start differentiating customers. 
+WWW has provided one random sample of its customers from its active database. These customers have purchased something from WWW in the past 24 months (after 24 months with no purchase, a person is eliminated from the active database).
 
 ## Dataset
 
