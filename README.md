@@ -54,3 +54,6 @@ The following dependencies are required to run the code:
 
 - SAS Enterprise Miner 15.2 version
 
+## Results 
+
+Decision Tree, Nominal Target Criterion: Entropy with Maximum Branch: 3, is selected as the best model. 
