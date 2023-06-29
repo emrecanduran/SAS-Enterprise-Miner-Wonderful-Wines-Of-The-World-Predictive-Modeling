@@ -44,5 +44,5 @@ Using the best-performing model, I applied it to unseen data to predict. The res
 
 The following dependencies are required to run the code:
 
-- SAS Enterprise Miner 15.2
+- SAS Enterprise Miner 15.2 version
 
