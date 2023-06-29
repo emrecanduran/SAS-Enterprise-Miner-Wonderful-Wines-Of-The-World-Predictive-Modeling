@@ -8,8 +8,8 @@ This project focuses on predicting the "Humid" target column using neural networ
 
 The dataset used for this project contains the following variables:
 
-- ´Custid´: Customer ID, unique
-- Dayswus: Days since last purchase
+- `Custid`: Customer ID, unique
+- `Dayswus`: Days since last purchase
 - Age: Age of the customer
 - Education: Customer's education level
 - Income: Customer's income
