@@ -10,27 +10,27 @@ The dataset used for this project contains the following variables:
 
 - `Custid`: Customer ID, unique
 - `Dayswus`: Days since last purchase
-- Age: Age of the customer
-- Education: Customer's education level
-- Income: Customer's income
-- Kidhome: Number of kids at home
-- Teenhome: Number of teenagers at home
-- Freq: Purchase frequency
-- Recency: Recency of purchase
-- Monetary: Monetary value of purchases
-- LTV: Customer lifetime value
-- Perdeal: Percentage of deals purchased
-- Dryred: Dry red wine preference
-- Sweetred: Sweet red wine preference
-- Drywh: Dry white wine preference
-- Sweetwh: Sweet white wine preference
-- Dessert: Dessert wine preference
-- Exotic: Exotic wine preference
-- WebPurchase: Web purchase behavior
-- WebVisit: Web visit behavior
-- ExpressedPreference: Expressed wine preference, rejected
-- NPS: Net Promoter Score, rejected
-- Humid: Target variable, binary
+- `Age`: Age of the customer
+- `Education`: Customer's education level
+- `Income`: Customer's income
+- `Kidhome`: Number of kids at home
+- `Teenhome`: Number of teenagers at home
+- `Freq`: Purchase frequency
+- `Recency`: Recency of purchase
+- `Monetary`: Monetary value of purchases
+- `LTV`: Customer lifetime value
+- `Perdeal`: Percentage of deals purchased
+- `Dryred`: Dry red wine preference
+- `Sweetred`: Sweet red wine preference
+- `Drywh`: Dry white wine preference
+- `Sweetwh`: Sweet white wine preference
+- `Dessert`: Dessert wine preference
+- `Exotic`: Exotic wine preference
+- `WebPurchase`: Web purchase behavior
+- `WebVisit`: Web visit behavior
+- `ExpressedPreference`: Expressed wine preference, rejected
+- `NPS`: Net Promoter Score, rejected
+- `Humid`: Target variable, binary
 
 ## Model Building
 
