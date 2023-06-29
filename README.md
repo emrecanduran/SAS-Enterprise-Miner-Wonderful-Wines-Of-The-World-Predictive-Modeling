@@ -34,7 +34,7 @@ The dataset used for this project contains the following variables:
 
 ## Model Building
 
-The prediction task was performed using two machine learning algorithms: neural networks and decision trees. Various features were utilized to train the models and predict the "Humid" target column.
+The prediction task was performed using two machine learning algorithms: Neural networks and Decision trees. Various features were utilized to train the models and predict the "Humid" target column.
 
 ## Predicting Unseen Data
 
