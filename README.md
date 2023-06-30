@@ -56,4 +56,4 @@ The following dependencies are required to run the code:
 
 ## Results 
 
-Decision Tree, Nominal Target Criterion: Entropy with Maximum Branch: 3, is selected as the best model. 
+Neural Network, Number of Hidden Units 10, is selected as the best model. 
