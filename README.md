@@ -1,6 +1,6 @@
-# SAS-Enterprise-Miner-Predictive-Modeling 
+### SAS-Enterprise-Miner-Predictive-Modeling 
 
-# Wonderful Wines Of The World 
+## Wonderful Wines Of The World 
 
 Wonderful Wines of the World (WWW) is a ten-year-old enterprise that seeks out small, unique wineries worldwide and brings its wines to its customers. Its mission is to delight its customers with well-made, unique, and exciting wines that would never travel far beyond their points of origin.
 WWW sells wines through catalogs (electronic and physical), websites, mobile apps, and ten small stores in major cities around the USA. Customers can purchase at the stores, by telephone (after looking at the catalog), or through the website/mobile app.
