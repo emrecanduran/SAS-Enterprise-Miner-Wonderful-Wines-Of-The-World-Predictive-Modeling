@@ -48,7 +48,7 @@ The prediction task was performed using two machine learning algorithms: Neural 
 
 Using the best-performing model, I applied it to unseen data to predict. The results of the predicted unseen data are used to calculate Return On Investment for the marketing campaigns. 
 
-## Dependencies
+## Usage
 
 The following dependencies are required to run the code:
 
